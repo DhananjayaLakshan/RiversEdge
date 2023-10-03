@@ -1,0 +1,18 @@
+userName : dhananjayalakshan
+password : GsBs6dx9LBmsYl7t   dhana7514
+
+https://cloud.mongodb.com/v2/64cbe034c882ff1e0dc7b850#/setup/access?includeToast=true
+
+********
+db name : dhana1234
+collection name : dhana
+password : GsBs6dx9LBmsYl7t   dhana7514
+Connection String: 
+mongodb+srv://dhana1234:dhana1234@cluster0.lxgr1rp.mongodb.net/dhana1234?retryWrites=true&w=majority
+
+reservation\client > npm start
+reservation > npm run server
+
+
+
+

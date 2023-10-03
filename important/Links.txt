@@ -1,0 +1,15 @@
+React bootstrap : https://react-bootstrap.github.io/docs/components/modal
+CSS box shadows : https://getcssscan.com/css-box-shadow-examples
+Google fonts : https://fonts.google.com/?query=mon
+Bootstrap : https://getbootstrap.com/docs/5.3/components/navbar/
+Spinners : https://www.npmjs.com/package/react-spinners  npm install --save react-spinners
+date picker: https://ant.design/components    npm i antd moment
+date functions: https://momentjs.com/
+Ant desing: https://ant.design/components/card
+Moment: https://momentjs.com/
+sweet alert: https://www.npmjs.com/package/react-sweetalert2 || https://sweetalert2.github.io/
+Aos : https://michalsnik.github.io/aos/       ||  https://www.npmjs.com/package/aos?activeTab=readme
+uconScowt: https://iconscout.com/unicons/free-line-icons?query=bin
+
+npm i sweetalert2
+npm install --save @iconscout/react-unicons
